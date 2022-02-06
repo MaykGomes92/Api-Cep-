@@ -20,4 +20,4 @@
 
 ## Próxima etapa
 
-* Deixar responsivo
+- [ ] Deixar responsivo
