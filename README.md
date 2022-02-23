@@ -1,9 +1,8 @@
-# Sobre o projeto
-
-## Consumindo uma API de procura de CEPS
+# Consumindo uma API de procura de CEPS
 
 ### Tecnologias usadas
-
+![react](https://user-images.githubusercontent.com/77819811/155426958-45311ff2-b3f6-4502-95dd-b07f6f8afe31.png)
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ### O que essa Api te retorna
 
@@ -28,3 +27,5 @@
 ## Aprendizado Pessoal
 
 Fiquei muito feliz de ter feito esse projeto, pois foi uns dos primeiros que fiz nessa caminhada de aprender React, achei o Framework maravilhoso, e por ter estudado JavaScript, HTML e Css sinto que estou me adaptando muito bem.
+
+<a href="https://www.linkedin.com/in/mayk-gomes-11b86222b/"><img"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/>
