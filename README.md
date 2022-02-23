@@ -28,4 +28,4 @@
 
 Fiquei muito feliz de ter feito esse projeto, pois foi uns dos primeiros que fiz nessa caminhada de aprender React, achei o Framework maravilhoso, e por ter estudado JavaScript, HTML e Css sinto que estou me adaptando muito bem.
 
-<a href="https://www.linkedin.com/in/mayk-gomes-11b86222b/"><img"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/>
+<a href="https://www.linkedin.com/in/mayk-gomes-11b86222b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
