@@ -24,6 +24,9 @@
 
 - [x] Deixar responsivo
 
+![image](https://user-images.githubusercontent.com/77819811/155461817-646b523a-0c89-4704-954d-ffe55dfd9493.png)
+
+
 ## Aprendizado Pessoal
 
 Fiquei muito feliz de ter feito esse projeto, pois foi uns dos primeiros que fiz nessa caminhada de aprender React, achei o Framework maravilhoso, e por ter estudado bastante JavaScript, HTML e Css sinto que estou me adaptando muito bem.
