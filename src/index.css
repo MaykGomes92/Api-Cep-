@@ -96,3 +96,45 @@ h2{
     opacity: 1;
   }
 }
+
+
+/* =================== RESPONSIVIDADE ======================*/
+
+@media (max-width: 740px){
+  .title{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 40px;
+  }
+  h2{
+    font-size: 2rem;
+    margin-top: 40px;
+  }
+
+  .contCeps{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    align-items: center;
+  }
+
+  .contCeps span{
+    width: 500px;
+    height: 90px;
+  }
+}
+
+@media (max-width: 500px){
+  .title{
+    margin-bottom: 10px;
+    font-size: 2rem;
+  }
+  h2{
+    font-size: 1.3rem;
+    margin-top: 5px;
+  }
+
+  .contCeps{
+    padding: 0;
+  }
+}
