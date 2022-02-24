@@ -4,6 +4,8 @@
 ![react](https://user-images.githubusercontent.com/77819811/155426958-45311ff2-b3f6-4502-95dd-b07f6f8afe31.png)
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+ <a href='https://react-api-cep.vercel.app/'>Visite o site!<a>
 ### O que essa Api te retorna
 
 * Rua
