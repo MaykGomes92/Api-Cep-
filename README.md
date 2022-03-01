@@ -1,8 +1,14 @@
 # Consumindo uma API de procura de CEPS
 
 ### Tecnologias usadas
-![react](https://user-images.githubusercontent.com/77819811/155426958-45311ff2-b3f6-4502-95dd-b07f6f8afe31.png)
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<div style={display:'flex'}>
+<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
+<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
+</div>
+
+##
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
  <a href='https://react-api-cep.vercel.app/'>Visite o site!<a>
